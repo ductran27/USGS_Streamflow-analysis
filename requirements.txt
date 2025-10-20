@@ -1,0 +1,18 @@
+# Python dependencies for Hydrology Automation System
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data fetching
+requests>=2.28.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Configuration
+PyYAML>=6.0

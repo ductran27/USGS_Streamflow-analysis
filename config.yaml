@@ -1,0 +1,30 @@
+# Configuration for Hydrology Automation System
+
+# Data source configuration
+data_sources:
+  usgs_sites:
+    - "01646500"  # Potomac River at Washington DC
+    - "01491000"  # Choptank River near Greensboro, MD
+  parameter: "00060"  # 00060 = Discharge (cubic feet per second)
+
+# Analysis configuration
+analysis:
+  detection_method: "iqr"  # Anomaly detection method
+  trend_significance: 0.05  # P-value threshold for trend significance
+
+# Visualization configuration
+visualization:
+  style: "seaborn"
+  dpi: 150
+  figure_size: [12, 6]
+
+# Git configuration
+git:
+  auto_commit: true
+  auto_push: true
+  commit_prefix: "Daily update:"
+
+# Schedule (for reference - actual scheduling done in GitHub Actions)
+schedule:
+  frequency: "daily"
+  time_utc: "09:00"  # 9 AM UTC
