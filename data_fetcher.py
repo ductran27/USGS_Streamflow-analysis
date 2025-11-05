@@ -85,7 +85,8 @@ class USGSDataFetcher:
         
         # Convert to DataFrame
         df = pd.DataFrame(values)
-        df['dateTime'] = pd.to_datetime(df['dateTime'])
+        # Normalize timestamps to naive UTC to avoid timezone arithmetic issues (e.g., DST transitions)
+        df['dateTime'] = pd.to_datetime(df['dateTime'], utc=True).dt.tz_localize(None)
         df['value'] = pd.to_numeric(df['value'], errors='coerce')
         df['site_code'] = site_code
         df['site_name'] = site_name
