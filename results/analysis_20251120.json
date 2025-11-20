@@ -1,0 +1,36 @@
+{
+  "mean_flow": 1166.4127063339731,
+  "median_flow": 1520.0,
+  "std_flow": 669.8089604550851,
+  "min_flow": 19.1,
+  "max_flow": 1770.0,
+  "total_records": 2605,
+  "percentile_25": 26.5,
+  "percentile_75": 1560.0,
+  "percentile_90": 1640.0,
+  "trend": {
+    "slope": -3.488502202334757e-05,
+    "direction": "stable",
+    "r_squared": 8.02506312121044e-05,
+    "p_value": 0.6476618820943469
+  },
+  "trend_slope": -3.488502202334757e-05,
+  "trend_direction": "stable",
+  "anomalies": [],
+  "anomaly_count": 0,
+  "flow_status": {
+    "status": "High Flow",
+    "latest_flow": 1770.0,
+    "percentile": 100.0
+  },
+  "recent_change": {
+    "change_cfs": 40.0,
+    "change_pct": 2.312138728323699
+  },
+  "summary": "High Flow conditions (avg: 1166 cfs, trend: stable)",
+  "analysis_date": "2025-11-20 02:02:35",
+  "sites_analyzed": [
+    "01646500",
+    "01491000"
+  ]
+}
