@@ -4,6 +4,8 @@ Fetches hydrological data from USGS Water Services API
 """
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import pandas as pd
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -22,7 +24,22 @@ class USGSDataFetcher:
         self.parameter = config.get('parameter', '00060')  # 00060 = Discharge (cfs)
         self.data_dir = Path('data')
         self.data_dir.mkdir(exist_ok=True)
+        self.session = self._create_session()
     
+    def _create_session(self):
+        """Create a requests session with retry logic"""
+        retry_strategy = Retry(
+            total=3,
+            backoff_factor=1,
+            status_forcelist=[429, 500, 502, 503, 504],
+            allowed_methods=["GET"]
+        )
+        adapter = HTTPAdapter(max_retries=retry_strategy)
+        session = requests.Session()
+        session.mount("https://", adapter)
+        session.mount("http://", adapter)
+        return session
+
     def fetch_latest_data(self, days=7):
         """
         Fetch latest streamflow data for configured sites
@@ -70,7 +87,8 @@ class USGSDataFetcher:
             'siteStatus': 'all'
         }
         
-        response = requests.get(self.BASE_URL, params=params, timeout=30)
+        # Use self.session instead of requests.get
+        response = self.session.get(self.BASE_URL, params=params, timeout=30)
         response.raise_for_status()
         
         data = response.json()
@@ -104,6 +122,7 @@ class USGSDataFetcher:
     def get_site_info(self, site_code):
         """Get information about a USGS site"""
         url = f"https://waterservices.usgs.gov/nwis/site/?format=rdb&sites={site_code}&siteOutput=expanded"
-        response = requests.get(url, timeout=30)
+        # Use session here too
+        response = self.session.get(url, timeout=30)
         response.raise_for_status()
         return response.text
