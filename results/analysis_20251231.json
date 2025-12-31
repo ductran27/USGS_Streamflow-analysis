@@ -1,0 +1,36 @@
+{
+  "mean_flow": 2024.0413525068016,
+  "median_flow": 2500.0,
+  "std_flow": 1193.3953346444766,
+  "min_flow": 40.8,
+  "max_flow": 3340.0,
+  "total_records": 2573,
+  "percentile_25": 52.0,
+  "percentile_75": 2850.0,
+  "percentile_90": 3120.0,
+  "trend": {
+    "slope": -0.0009778363037573276,
+    "direction": "decreasing",
+    "r_squared": 0.019488443152641827,
+    "p_value": 1.1384477782634519e-12
+  },
+  "trend_slope": -0.0009778363037573276,
+  "trend_direction": "decreasing",
+  "anomalies": [],
+  "anomaly_count": 0,
+  "flow_status": {
+    "status": "Normal",
+    "latest_flow": 2400.0,
+    "percentile": 43.02370773416246
+  },
+  "recent_change": {
+    "change_cfs": 50.0,
+    "change_pct": 2.127659574468085
+  },
+  "summary": "Normal conditions (avg: 2024 cfs, trend: decreasing)",
+  "analysis_date": "2025-12-31 02:20:03",
+  "sites_analyzed": [
+    "01646500",
+    "01491000"
+  ]
+}
