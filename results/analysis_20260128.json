@@ -1,0 +1,47 @@
+{
+  "mean_flow": 432.28762164266254,
+  "median_flow": 1090.0,
+  "std_flow": 27942.893684595245,
+  "min_flow": -999999.0,
+  "max_flow": 2650.0,
+  "total_records": 2569,
+  "percentile_25": 526.0,
+  "percentile_75": 2070.0,
+  "percentile_90": 2260.0,
+  "trend": {
+    "slope": -0.00607077769580933,
+    "direction": "stable",
+    "r_squared": 0.0013962602296135297,
+    "p_value": 0.058268122902726864
+  },
+  "trend_slope": -0.00607077769580933,
+  "trend_direction": "stable",
+  "anomalies": [
+    {
+      "dateTime": "2026-01-25 21:15:00",
+      "discharge_cfs": -999999.0,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-01-26 13:30:00",
+      "discharge_cfs": -999999.0,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    }
+  ],
+  "anomaly_count": 2,
+  "flow_status": {
+    "status": "Normal",
+    "latest_flow": 923.0,
+    "percentile": 41.65044764499805
+  },
+  "recent_change": {
+    "change_cfs": 833.5,
+    "change_pct": 931.2849162011172
+  },
+  "summary": "Normal conditions (avg: 432 cfs, trend: stable), 2 anomalies detected",
+  "analysis_date": "2026-01-28 02:26:00",
+  "sites_analyzed": [
+    "01646500",
+    "01491000"
+  ]
+}
