@@ -1,34 +1,34 @@
 {
-  "mean_flow": 16282.991468183434,
-  "median_flow": 16800.0,
-  "std_flow": 10738.41282350057,
+  "mean_flow": 16069.760787021056,
+  "median_flow": 16700.0,
+  "std_flow": 10691.714897753449,
   "min_flow": 150.0,
   "max_flow": 32800.0,
-  "total_records": 2813,
-  "percentile_25": 12400.0,
-  "percentile_75": 25000.0,
+  "total_records": 2897,
+  "percentile_25": 738.0,
+  "percentile_75": 24700.0,
   "percentile_90": 30700.0,
   "trend": {
-    "slope": -0.008626794975727515,
+    "slope": -0.009803975585258206,
     "direction": "decreasing",
-    "r_squared": 0.021552626235027007,
-    "p_value": 5.062803601186378e-15
+    "r_squared": 0.029781322375173253,
+    "p_value": 8.37805845843798e-21
   },
-  "trend_slope": -0.008626794975727515,
+  "trend_slope": -0.009803975585258206,
   "trend_direction": "decreasing",
   "anomalies": [],
   "anomaly_count": 0,
   "flow_status": {
-    "status": "Normal",
-    "latest_flow": 12400.0,
-    "percentile": 25.097760398151443
+    "status": "Below Normal",
+    "latest_flow": 521.0,
+    "percentile": 21.26337590610977
   },
   "recent_change": {
-    "change_cfs": -200.0,
-    "change_pct": -1.5873015873015872
+    "change_cfs": 2.0,
+    "change_pct": 0.3853564547206166
   },
-  "summary": "Normal conditions (avg: 16283 cfs, trend: decreasing)",
-  "analysis_date": "2026-02-27 13:16:41",
+  "summary": "Below Normal conditions (avg: 16070 cfs, trend: decreasing)",
+  "analysis_date": "2026-02-27 18:57:01",
   "sites_analyzed": [
     "01646500",
     "01491000"
