@@ -1,34 +1,34 @@
 {
-  "mean_flow": 5759.773419649658,
+  "mean_flow": 5763.769259536275,
   "median_flow": 7490.0,
-  "std_flow": 3269.1693203424707,
+  "std_flow": 3271.41265300788,
   "min_flow": 82.8,
   "max_flow": 8340.0,
-  "total_records": 2626,
+  "total_records": 2674,
   "percentile_25": 201.0,
-  "percentile_75": 7740.0,
+  "percentile_75": 7820.0,
   "percentile_90": 7990.0,
   "trend": {
-    "slope": 0.0003547813768711481,
+    "slope": 0.00037626951433884044,
     "direction": "stable",
-    "r_squared": 0.00034929673091822853,
-    "p_value": 0.33838507804571005
+    "r_squared": 0.0004071174130425831,
+    "p_value": 0.29695125718301313
   },
-  "trend_slope": 0.0003547813768711481,
+  "trend_slope": 0.00037626951433884044,
   "trend_direction": "stable",
   "anomalies": [],
   "anomaly_count": 0,
   "flow_status": {
-    "status": "High Flow",
-    "latest_flow": 7990.0,
-    "percentile": 92.26961157654226
+    "status": "Above Normal",
+    "latest_flow": 7910.0,
+    "percentile": 85.0037397157816
   },
   "recent_change": {
     "change_cfs": 0.0,
     "change_pct": 0.0
   },
-  "summary": "High Flow conditions (avg: 5760 cfs, trend: stable)",
-  "analysis_date": "2026-04-09 02:22:55",
+  "summary": "Above Normal conditions (avg: 5764 cfs, trend: stable)",
+  "analysis_date": "2026-04-09 05:10:20",
   "sites_analyzed": [
     "01646500",
     "01491000"
