@@ -1,34 +1,34 @@
 {
-  "mean_flow": 2012.719411352488,
+  "mean_flow": 2049.018125430737,
   "median_flow": 2450.0,
-  "std_flow": 1250.6457256436238,
+  "std_flow": 1308.8386851765783,
   "min_flow": 22.0,
-  "max_flow": 5360.0,
-  "total_records": 2854,
+  "max_flow": 5850.0,
+  "total_records": 2902,
   "percentile_25": 523.575,
-  "percentile_75": 2600.0,
-  "percentile_90": 3060.0,
+  "percentile_75": 2700.0,
+  "percentile_90": 3114.0000000000055,
   "trend": {
-    "slope": 0.0013454245254355534,
+    "slope": 0.0016074202541605633,
     "direction": "increasing",
-    "r_squared": 0.04006827352793697,
-    "p_value": 3.500158379181593e-27
+    "r_squared": 0.053983763090287615,
+    "p_value": 7.160512425034164e-37
   },
-  "trend_slope": 0.0013454245254355534,
+  "trend_slope": 0.0016074202541605633,
   "trend_direction": "increasing",
   "anomalies": [],
   "anomaly_count": 0,
   "flow_status": {
     "status": "High Flow",
-    "latest_flow": 5360.0,
+    "latest_flow": 5850.0,
     "percentile": 100.0
   },
   "recent_change": {
-    "change_cfs": 210.0,
-    "change_pct": 4.077669902912621
+    "change_cfs": 280.0,
+    "change_pct": 5.026929982046679
   },
-  "summary": "High Flow conditions (avg: 2013 cfs, trend: increasing)",
-  "analysis_date": "2026-05-23 15:00:43",
+  "summary": "High Flow conditions (avg: 2049 cfs, trend: increasing)",
+  "analysis_date": "2026-05-23 18:01:27",
   "sites_analyzed": [
     "01646500",
     "01491000"
