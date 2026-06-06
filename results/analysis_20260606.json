@@ -1,20 +1,20 @@
 {
-  "mean_flow": 11362.10461377141,
-  "median_flow": 9130.0,
-  "std_flow": 9975.051261491557,
+  "mean_flow": 11245.269302165692,
+  "median_flow": 9040.0,
+  "std_flow": 9938.454593651804,
   "min_flow": 22.5,
   "max_flow": 38100.0,
-  "total_records": 2861,
-  "percentile_25": 5850.0,
-  "percentile_75": 16500.0,
+  "total_records": 2909,
+  "percentile_25": 5640.0,
+  "percentile_75": 16400.0,
   "percentile_90": 26700.0,
   "trend": {
-    "slope": -0.03280466338992512,
+    "slope": -0.032259889547429144,
     "direction": "decreasing",
-    "r_squared": 0.37360774417605686,
-    "p_value": 9.53307300202213e-293
+    "r_squared": 0.3762808437280334,
+    "p_value": 2.5050060407770648e-300
   },
-  "trend_slope": -0.03280466338992512,
+  "trend_slope": -0.032259889547429144,
   "trend_direction": "decreasing",
   "anomalies": [
     {
@@ -731,40 +731,20 @@
       "dateTime": "2026-05-30 15:50:00",
       "discharge_cfs": 32700.0,
       "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-05-30 15:55:00",
-      "discharge_cfs": 32500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-05-30 16:00:00",
-      "discharge_cfs": 32500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-05-30 16:05:00",
-      "discharge_cfs": 32500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-05-30 16:10:00",
-      "discharge_cfs": 32500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     }
   ],
-  "anomaly_count": 147,
+  "anomaly_count": 143,
   "flow_status": {
     "status": "Normal",
-    "latest_flow": 5850.0,
-    "percentile": 26.878713736455783
+    "latest_flow": 5710.0,
+    "percentile": 26.057064283258853
   },
   "recent_change": {
-    "change_cfs": 0.0,
-    "change_pct": 0.0
+    "change_cfs": 70.0,
+    "change_pct": 1.2411347517730498
   },
-  "summary": "Normal conditions (avg: 11362 cfs, trend: decreasing), 147 anomalies detected",
-  "analysis_date": "2026-06-06 15:15:36",
+  "summary": "Normal conditions (avg: 11245 cfs, trend: decreasing), 143 anomalies detected",
+  "analysis_date": "2026-06-06 18:05:38",
   "sites_analyzed": [
     "01646500",
     "01491000"
