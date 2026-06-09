@@ -1,34 +1,60 @@
 {
-  "mean_flow": 5574.181402543829,
+  "mean_flow": 5528.528763893567,
   "median_flow": 5360.0,
-  "std_flow": 4086.996692134859,
-  "min_flow": 16.4,
+  "std_flow": 4064.724631055403,
+  "min_flow": 15.1,
   "max_flow": 14400.0,
-  "total_records": 2909,
-  "percentile_25": 33.9,
-  "percentile_75": 8250.0,
-  "percentile_90": 11700.0,
+  "total_records": 2969,
+  "percentile_25": 4050.0,
+  "percentile_75": 8160.0,
+  "percentile_90": 11600.0,
   "trend": {
-    "slope": -0.011054936213828949,
+    "slope": -0.010797675195865324,
     "direction": "decreasing",
-    "r_squared": 0.2613593661923609,
-    "p_value": 1.6935167345996446e-193
+    "r_squared": 0.26265922056685687,
+    "p_value": 1.385138060079344e-198
   },
-  "trend_slope": -0.011054936213828949,
+  "trend_slope": -0.010797675195865324,
   "trend_direction": "decreasing",
-  "anomalies": [],
-  "anomaly_count": 0,
+  "anomalies": [
+    {
+      "dateTime": "2026-06-02 04:10:00",
+      "discharge_cfs": 14400.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-06-02 04:15:00",
+      "discharge_cfs": 14400.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-06-02 04:20:00",
+      "discharge_cfs": 14400.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-06-02 04:25:00",
+      "discharge_cfs": 14400.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-06-02 04:30:00",
+      "discharge_cfs": 14400.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    }
+  ],
+  "anomaly_count": 5,
   "flow_status": {
-    "status": "Low Flow",
-    "latest_flow": 16.4,
-    "percentile": 0.034376074252320386
+    "status": "Normal",
+    "latest_flow": 4110.0,
+    "percentile": 27.4503199730549
   },
   "recent_change": {
-    "change_cfs": -4153.6,
-    "change_pct": -99.60671462829737
+    "change_cfs": -60.0,
+    "change_pct": -1.4388489208633095
   },
-  "summary": "Low Flow conditions (avg: 5574 cfs, trend: decreasing)",
-  "analysis_date": "2026-06-09 19:13:45",
+  "summary": "Normal conditions (avg: 5529 cfs, trend: decreasing), 5 anomalies detected",
+  "analysis_date": "2026-06-09 22:23:56",
   "sites_analyzed": [
     "01646500",
     "01491000"
