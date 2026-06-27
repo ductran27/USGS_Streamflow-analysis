@@ -1,20 +1,20 @@
 {
-  "mean_flow": 1878.1557064283259,
+  "mean_flow": 1878.0002690884628,
   "median_flow": 2350.0,
-  "std_flow": 1099.7938769343966,
+  "std_flow": 1099.3095846894246,
   "min_flow": 5.24,
   "max_flow": 3450.0,
-  "total_records": 2909,
+  "total_records": 2973,
   "percentile_25": 2260.0,
   "percentile_75": 2500.0,
-  "percentile_90": 2850.0,
+  "percentile_90": 2800.0,
   "trend": {
-    "slope": -4.7198106077724076e-05,
+    "slope": -4.5096136075279926e-05,
     "direction": "stable",
-    "r_squared": 6.57734499189458e-05,
-    "p_value": 0.6619389580573943
+    "r_squared": 6.277138618143252e-05,
+    "p_value": 0.6658724564765509
   },
-  "trend_slope": -4.7198106077724076e-05,
+  "trend_slope": -4.5096136075279926e-05,
   "trend_direction": "stable",
   "anomalies": [
     {
@@ -5031,20 +5031,100 @@
       "dateTime": "2026-06-27 17:15:00",
       "discharge_cfs": 5.55,
       "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 17:30:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 17:45:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 18:00:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 18:15:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 18:30:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 18:45:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 19:00:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 19:15:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 19:30:00",
+      "discharge_cfs": 5.55,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 19:45:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 20:00:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 20:15:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 20:30:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 20:45:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 21:00:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-06-27 21:15:00",
+      "discharge_cfs": 5.7,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
     }
   ],
-  "anomaly_count": 1003,
+  "anomaly_count": 1019,
   "flow_status": {
     "status": "Above Normal",
     "latest_flow": 2500.0,
-    "percentile": 82.09006531454108
+    "percentile": 82.47561385805584
   },
   "recent_change": {
-    "change_cfs": 50.0,
-    "change_pct": 2.0408163265306123
+    "change_cfs": 0.0,
+    "change_pct": 0.0
   },
-  "summary": "Above Normal conditions (avg: 1878 cfs, trend: stable), 1003 anomalies detected",
-  "analysis_date": "2026-06-27 18:03:32",
+  "summary": "Above Normal conditions (avg: 1878 cfs, trend: stable), 1019 anomalies detected",
+  "analysis_date": "2026-06-27 22:01:57",
   "sites_analyzed": [
     "01646500",
     "01491000"
