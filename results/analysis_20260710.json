@@ -1,20 +1,20 @@
 {
-  "mean_flow": 2303.052332755633,
+  "mean_flow": 2398.4883463497454,
   "median_flow": 2070.0,
-  "std_flow": 1888.379069765174,
+  "std_flow": 2044.4367823764685,
   "min_flow": 1.04,
   "max_flow": 9040.0,
-  "total_records": 2885,
+  "total_records": 2945,
   "percentile_25": 13.9,
   "percentile_75": 3060.0,
-  "percentile_90": 4880.0,
+  "percentile_90": 4985.9999999999945,
   "trend": {
-    "slope": 0.00427405881073533,
+    "slope": 0.004860928800411792,
     "direction": "increasing",
-    "r_squared": 0.1812242252058136,
-    "p_value": 2.341638579547226e-127
+    "r_squared": 0.20834909504588106,
+    "p_value": 1.5845710692370153e-151
   },
-  "trend_slope": 0.00427405881073533,
+  "trend_slope": 0.004860928800411792,
   "trend_direction": "increasing",
   "anomalies": [
     {
@@ -401,20 +401,260 @@
       "dateTime": "2026-07-10 16:50:00",
       "discharge_cfs": 8950.0,
       "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 16:55:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:00:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:05:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:10:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:15:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:20:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:25:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:30:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:35:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:40:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:45:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:50:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 17:55:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:00:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:05:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:10:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:15:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:20:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:25:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:30:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:35:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:40:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:45:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:50:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 18:55:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:00:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:05:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:10:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:15:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:20:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:25:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:30:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:35:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:40:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:45:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:50:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 19:55:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:00:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:05:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:10:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:15:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:20:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:25:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:30:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:35:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:40:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:45:00",
+      "discharge_cfs": 8420.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-10 20:50:00",
+      "discharge_cfs": 8420.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     }
   ],
-  "anomaly_count": 77,
+  "anomaly_count": 125,
   "flow_status": {
-    "status": "Below Normal",
-    "latest_flow": 11.5,
-    "percentile": 20.034662045060657
+    "status": "High Flow",
+    "latest_flow": 8420.0,
+    "percentile": 96.7402376910017
   },
   "recent_change": {
-    "change_cfs": 0.8000000000000007,
-    "change_pct": 7.4766355140186995
+    "change_cfs": -270.0,
+    "change_pct": -3.1070195627157653
   },
-  "summary": "Below Normal conditions (avg: 2303 cfs, trend: increasing), 77 anomalies detected",
-  "analysis_date": "2026-07-10 17:48:11",
+  "summary": "High Flow conditions (avg: 2398 cfs, trend: increasing), 125 anomalies detected",
+  "analysis_date": "2026-07-10 21:06:29",
   "sites_analyzed": [
     "01646500",
     "01491000"
