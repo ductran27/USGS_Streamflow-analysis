@@ -1,0 +1,52 @@
+{
+  "mean_flow": 2560.521455670103,
+  "median_flow": 4290.0,
+  "std_flow": 35389.65230524242,
+  "min_flow": -999999.0,
+  "max_flow": 9040.0,
+  "total_records": 2425,
+  "percentile_25": 13.7,
+  "percentile_75": 5290.0,
+  "percentile_90": 7000.0,
+  "trend": {
+    "slope": -0.017153353194775876,
+    "direction": "decreasing",
+    "r_squared": 0.006410439125570317,
+    "p_value": 7.911687230143689e-05
+  },
+  "trend_slope": -0.017153353194775876,
+  "trend_direction": "decreasing",
+  "anomalies": [
+    {
+      "dateTime": "2026-07-15 19:45:00",
+      "discharge_cfs": -999999.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-15 19:50:00",
+      "discharge_cfs": -999999.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    },
+    {
+      "dateTime": "2026-07-16 15:15:00",
+      "discharge_cfs": -999999.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
+    }
+  ],
+  "anomaly_count": 3,
+  "flow_status": {
+    "status": "Low Flow",
+    "latest_flow": 4.5,
+    "percentile": 0.24742268041237112
+  },
+  "recent_change": {
+    "change_cfs": -0.15000000000000036,
+    "change_pct": -3.2258064516129106
+  },
+  "summary": "Low Flow conditions (avg: 2561 cfs, trend: decreasing), 3 anomalies detected",
+  "analysis_date": "2026-07-17 02:43:18",
+  "sites_analyzed": [
+    "01646500",
+    "01491000"
+  ]
+}
