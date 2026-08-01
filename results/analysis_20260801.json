@@ -1,27 +1,22 @@
 {
-  "mean_flow": 1763.6135442153093,
-  "median_flow": 2260.0,
-  "std_flow": 1025.8623478320726,
+  "mean_flow": 1758.4593159161225,
+  "median_flow": 2210.0,
+  "std_flow": 1023.7062543369977,
   "min_flow": 8.95,
   "max_flow": 3400.0,
-  "total_records": 2861,
-  "percentile_25": 1940.0,
+  "total_records": 2909,
+  "percentile_25": 1890.0,
   "percentile_75": 2400.0,
   "percentile_90": 2550.0,
   "trend": {
-    "slope": -0.0003529831008977507,
+    "slope": -0.0003819732062850613,
     "direction": "decreasing",
-    "r_squared": 0.004089823989901636,
-    "p_value": 0.0006200715011476572
+    "r_squared": 0.004972092044430431,
+    "p_value": 0.0001410977048149329
   },
-  "trend_slope": -0.0003529831008977507,
+  "trend_slope": -0.0003819732062850613,
   "trend_direction": "decreasing",
   "anomalies": [
-    {
-      "dateTime": "2026-07-28 23:15:00",
-      "discharge_cfs": 3120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
     {
       "dateTime": "2026-07-28 23:20:00",
       "discharge_cfs": 3170.0,
@@ -215,21 +210,6 @@
     {
       "dateTime": "2026-07-29 02:30:00",
       "discharge_cfs": 3170.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-07-29 02:35:00",
-      "discharge_cfs": 3120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-07-29 02:40:00",
-      "discharge_cfs": 3120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-07-29 02:45:00",
-      "discharge_cfs": 3120.0,
       "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
@@ -3801,20 +3781,80 @@
       "dateTime": "2026-08-01 14:15:00",
       "discharge_cfs": 14.5,
       "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 14:30:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 14:45:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 15:00:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 15:15:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 15:30:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 15:45:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 16:00:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 16:15:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 16:30:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 16:45:00",
+      "discharge_cfs": 14.2,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 17:00:00",
+      "discharge_cfs": 13.9,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-01 17:15:00",
+      "discharge_cfs": 13.9,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
     }
   ],
-  "anomaly_count": 757,
+  "anomaly_count": 765,
   "flow_status": {
     "status": "Normal",
     "latest_flow": 1940.0,
-    "percentile": 25.795176511709194
+    "percentile": 27.019594362323822
   },
   "recent_change": {
-    "change_cfs": 0.0,
-    "change_pct": 0.0
+    "change_cfs": 50.0,
+    "change_pct": 2.6455026455026456
   },
-  "summary": "Normal conditions (avg: 1764 cfs, trend: decreasing), 757 anomalies detected",
-  "analysis_date": "2026-08-01 15:00:08",
+  "summary": "Normal conditions (avg: 1758 cfs, trend: decreasing), 765 anomalies detected",
+  "analysis_date": "2026-08-01 17:59:48",
   "sites_analyzed": [
     "01646500",
     "01491000"
