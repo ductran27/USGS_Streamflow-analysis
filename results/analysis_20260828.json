@@ -1,20 +1,20 @@
 {
-  "mean_flow": 2759.2106256941875,
-  "median_flow": 3280.0,
-  "std_flow": 1614.151548982731,
-  "min_flow": 24.3,
+  "mean_flow": 2772.14275440489,
+  "median_flow": 3340.0,
+  "std_flow": 1623.2683788914308,
+  "min_flow": 23.4,
   "max_flow": 4810.0,
-  "total_records": 2701,
+  "total_records": 2781,
   "percentile_25": 3010.0,
-  "percentile_75": 3920.0,
+  "percentile_75": 3980.0,
   "percentile_90": 4360.0,
   "trend": {
-    "slope": 0.0016248193126853195,
+    "slope": 0.0016094019861328742,
     "direction": "increasing",
-    "r_squared": 0.031197471236752476,
-    "p_value": 2.2849137538715944e-20
+    "r_squared": 0.032084422133575624,
+    "p_value": 1.751449489744961e-21
   },
-  "trend_slope": 0.0016248193126853195,
+  "trend_slope": 0.0016094019861328742,
   "trend_direction": "increasing",
   "anomalies": [
     {
@@ -3386,20 +3386,120 @@
       "dateTime": "2026-08-28 04:15:00",
       "discharge_cfs": 25.2,
       "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 04:30:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 04:45:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 05:00:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 05:15:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 05:30:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 05:45:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 06:00:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 06:15:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 06:30:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 06:45:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 07:00:00",
+      "discharge_cfs": 24.3,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 07:15:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 07:30:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 07:45:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 08:00:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 08:15:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 08:30:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 08:45:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 09:00:00",
+      "discharge_cfs": 23.8,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+    },
+    {
+      "dateTime": "2026-08-28 09:15:00",
+      "discharge_cfs": 23.4,
+      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
     }
   ],
-  "anomaly_count": 674,
+  "anomaly_count": 694,
   "flow_status": {
-    "status": "High Flow",
-    "latest_flow": 4810.0,
-    "percentile": 100.0
+    "status": "Above Normal",
+    "latest_flow": 3980.0,
+    "percentile": 76.1596548004315
   },
   "recent_change": {
-    "change_cfs": 950.0,
-    "change_pct": 24.61139896373057
+    "change_cfs": -70.0,
+    "change_pct": -1.728395061728395
   },
-  "summary": "High Flow conditions (avg: 2759 cfs, trend: increasing), 674 anomalies detected",
-  "analysis_date": "2026-08-28 05:07:29",
+  "summary": "Above Normal conditions (avg: 2772 cfs, trend: increasing), 694 anomalies detected",
+  "analysis_date": "2026-08-28 10:01:48",
   "sites_analyzed": [
     "01646500",
     "01491000"
