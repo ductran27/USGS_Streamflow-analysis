@@ -23,6 +23,18 @@ def load_config():
         return yaml.safe_load(f)
 
 
+def commit_to_github(git_mgr, config, commit_msg):
+    """Commit and push when auto_commit is on"""
+    if not config['git']['auto_commit']:
+        return
+    print(f"\nCommitting to GitHub...")
+    success = git_mgr.commit_and_push(commit_msg)
+    if success:
+        print(f"✓ Changes committed and pushed to GitHub")
+    else:
+        print(f"⚠ Git operations skipped (no changes or error)")
+
+
 def main():
     """Main execution function"""
     print(f"=== Hydrology Automation System ===")
@@ -44,7 +56,10 @@ def main():
         print(f"\nFetching data from USGS...")
         data = fetcher.fetch_latest_data()
         if data is None or data.empty:
-            print("⚠ No new data available. Skipping today.")
+            failure_file = fetcher.save_fetch_failure()
+            summary = f"USGS data unavailable ({len(fetcher.fetch_errors)} of {len(fetcher.site_codes)} sites failed)"
+            print(f"::warning title=USGS fetch failed::{summary}, details in {failure_file}")
+            commit_to_github(git_mgr, config, f"Daily update: {datetime.now().strftime('%Y-%m-%d')} - {summary}")
             return
         print(f"✓ Data fetched: {len(data)} records")
         
@@ -69,14 +84,8 @@ def main():
         print(f"✓ Results saved to {result_file}")
         
         # Git commit and push
-        if config['git']['auto_commit']:
-            print(f"\nCommitting to GitHub...")
-            commit_msg = f"Daily update: {datetime.now().strftime('%Y-%m-%d')} - {results['summary']}"
-            success = git_mgr.commit_and_push(commit_msg)
-            if success:
-                print(f"✓ Changes committed and pushed to GitHub")
-            else:
-                print(f"⚠ Git operations skipped (no changes or error)")
+        commit_msg = f"Daily update: {datetime.now().strftime('%Y-%m-%d')} - {results['summary']}"
+        commit_to_github(git_mgr, config, commit_msg)
         
         print(f"\n=== Automation Complete ===")
         print(f"Finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")

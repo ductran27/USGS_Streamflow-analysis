@@ -27,7 +27,7 @@ python main.py
 
 ## Data Source
 
-Uses USGS Water Services API (public domain, no authentication required):
+Uses the USGS Water Data API (public domain, an optional `USGS_API_KEY` secret raises the rate limit):
 - Real-time streamflow measurements
 - Historical data available
 - Free access for research and analysis

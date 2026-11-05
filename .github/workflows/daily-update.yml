@@ -41,6 +41,8 @@ jobs:
     - name: Run automation script
       run: |
         python main.py
+      env:
+        USGS_API_KEY: ${{ secrets.USGS_API_KEY }}
     
     - name: Commit and push if changes
       run: |
