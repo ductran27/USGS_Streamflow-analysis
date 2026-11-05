@@ -102,7 +102,7 @@ class DataVisualizer:
         ax1.grid(True, alpha=0.3)
         
         # Box plot
-        ax2.boxplot(df['discharge_cfs'].dropna(), vert=True)
+        ax2.boxplot(df['discharge_cfs'].dropna())
         ax2.set_ylabel('Discharge (cfs)', fontsize=11)
         ax2.set_title('Streamflow Box Plot', fontsize=12, fontweight='bold')
         ax2.grid(True, alpha=0.3)

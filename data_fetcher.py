@@ -90,7 +90,7 @@ class USGSDataFetcher:
         df['value'] = pd.to_numeric(df['value'], errors='coerce')
         df['site_code'] = site_code
         df['site_name'] = site_name
-        df.rename(columns={'value': 'discharge_cfs'}, inplace=True)
+        df = df.rename(columns={'value': 'discharge_cfs'})
         
         return df[['dateTime', 'site_code', 'site_name', 'discharge_cfs']]
     
