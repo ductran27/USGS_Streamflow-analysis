@@ -1,347 +1,22 @@
 {
-  "mean_flow": 1321.0497012696042,
+  "mean_flow": 1595.4232209737827,
   "median_flow": 1520.0,
-  "std_flow": 979.449917196834,
+  "std_flow": 1634.8097822098766,
   "min_flow": 17.3,
-  "max_flow": 5570.0,
-  "total_records": 2678,
-  "percentile_25": 1420.0,
+  "max_flow": 9590.0,
+  "total_records": 2670,
+  "percentile_25": 410.5,
   "percentile_75": 1600.0,
-  "percentile_90": 1640.0,
+  "percentile_90": 2350.0,
   "trend": {
-    "slope": 0.0014362859866401368,
+    "slope": 0.003800913170135464,
     "direction": "increasing",
-    "r_squared": 0.06517448196659502,
-    "p_value": 4.1334209706214496e-41
+    "r_squared": 0.16268758309841455,
+    "p_value": 5.179206905848795e-105
   },
-  "trend_slope": 0.0014362859866401368,
+  "trend_slope": 0.003800913170135464,
   "trend_direction": "increasing",
   "anomalies": [
-    {
-      "dateTime": "2026-11-26 14:45:00",
-      "discharge_cfs": 1940.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 14:55:00",
-      "discharge_cfs": 1890.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 15:05:00",
-      "discharge_cfs": 1980.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 15:10:00",
-      "discharge_cfs": 1940.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 15:40:00",
-      "discharge_cfs": 1890.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 15:45:00",
-      "discharge_cfs": 2030.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 15:55:00",
-      "discharge_cfs": 2070.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:00:00",
-      "discharge_cfs": 1940.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:05:00",
-      "discharge_cfs": 1980.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:10:00",
-      "discharge_cfs": 1980.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:15:00",
-      "discharge_cfs": 1980.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:20:00",
-      "discharge_cfs": 2030.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:25:00",
-      "discharge_cfs": 1940.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:30:00",
-      "discharge_cfs": 1940.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:35:00",
-      "discharge_cfs": 2070.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:40:00",
-      "discharge_cfs": 1980.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:45:00",
-      "discharge_cfs": 2210.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:50:00",
-      "discharge_cfs": 2070.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 16:55:00",
-      "discharge_cfs": 2120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:00:00",
-      "discharge_cfs": 2120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:05:00",
-      "discharge_cfs": 2070.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:10:00",
-      "discharge_cfs": 2120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:15:00",
-      "discharge_cfs": 2070.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:20:00",
-      "discharge_cfs": 2070.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:25:00",
-      "discharge_cfs": 2160.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:30:00",
-      "discharge_cfs": 2120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:35:00",
-      "discharge_cfs": 2300.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:40:00",
-      "discharge_cfs": 2210.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:45:00",
-      "discharge_cfs": 2160.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:50:00",
-      "discharge_cfs": 2160.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 17:55:00",
-      "discharge_cfs": 2160.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:00:00",
-      "discharge_cfs": 2300.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:05:00",
-      "discharge_cfs": 2260.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:10:00",
-      "discharge_cfs": 2350.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:15:00",
-      "discharge_cfs": 2350.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:20:00",
-      "discharge_cfs": 2260.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:25:00",
-      "discharge_cfs": 2300.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:30:00",
-      "discharge_cfs": 2350.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:35:00",
-      "discharge_cfs": 2400.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:40:00",
-      "discharge_cfs": 2350.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:45:00",
-      "discharge_cfs": 2450.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:50:00",
-      "discharge_cfs": 2400.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 18:55:00",
-      "discharge_cfs": 2350.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:00:00",
-      "discharge_cfs": 2450.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:05:00",
-      "discharge_cfs": 2500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:10:00",
-      "discharge_cfs": 2500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:15:00",
-      "discharge_cfs": 2500.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:20:00",
-      "discharge_cfs": 2550.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:25:00",
-      "discharge_cfs": 2550.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:30:00",
-      "discharge_cfs": 2600.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:35:00",
-      "discharge_cfs": 2600.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:40:00",
-      "discharge_cfs": 2700.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:45:00",
-      "discharge_cfs": 2700.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:50:00",
-      "discharge_cfs": 2750.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 19:55:00",
-      "discharge_cfs": 2800.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:00:00",
-      "discharge_cfs": 2800.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:05:00",
-      "discharge_cfs": 2900.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:10:00",
-      "discharge_cfs": 2900.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:15:00",
-      "discharge_cfs": 2900.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:20:00",
-      "discharge_cfs": 3060.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:25:00",
-      "discharge_cfs": 3060.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:30:00",
-      "discharge_cfs": 3120.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:35:00",
-      "discharge_cfs": 3170.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:40:00",
-      "discharge_cfs": 3280.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 20:45:00",
-      "discharge_cfs": 3340.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
     {
       "dateTime": "2026-11-26 20:50:00",
       "discharge_cfs": 3400.0,
@@ -350,11 +25,6 @@
     {
       "dateTime": "2026-11-26 20:55:00",
       "discharge_cfs": 3400.0,
-      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
-    },
-    {
-      "dateTime": "2026-11-26 21:00:00",
-      "discharge_cfs": 3340.0,
       "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
@@ -948,3363 +618,618 @@
       "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 07:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 06:55:00",
+      "discharge_cfs": 5640.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 07:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:00:00",
+      "discharge_cfs": 5640.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 07:45:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:05:00",
+      "discharge_cfs": 5640.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 08:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:10:00",
+      "discharge_cfs": 5710.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 08:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:15:00",
+      "discharge_cfs": 5710.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 08:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:20:00",
+      "discharge_cfs": 5710.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 08:45:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:25:00",
+      "discharge_cfs": 5710.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 09:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:30:00",
+      "discharge_cfs": 5780.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 09:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:35:00",
+      "discharge_cfs": 5850.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 09:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:40:00",
+      "discharge_cfs": 5780.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 09:45:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:45:00",
+      "discharge_cfs": 5850.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 10:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:50:00",
+      "discharge_cfs": 6000.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 10:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 07:55:00",
+      "discharge_cfs": 5930.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 10:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:00:00",
+      "discharge_cfs": 5930.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 10:45:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:05:00",
+      "discharge_cfs": 5930.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 11:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:10:00",
+      "discharge_cfs": 6000.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 11:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:15:00",
+      "discharge_cfs": 6000.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 11:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:20:00",
+      "discharge_cfs": 6080.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 11:45:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:25:00",
+      "discharge_cfs": 6080.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 12:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:30:00",
+      "discharge_cfs": 6150.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 12:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:35:00",
+      "discharge_cfs": 6150.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 12:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:40:00",
+      "discharge_cfs": 6230.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 12:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:45:00",
+      "discharge_cfs": 6230.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 13:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:50:00",
+      "discharge_cfs": 6230.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 13:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 08:55:00",
+      "discharge_cfs": 6300.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 13:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:00:00",
+      "discharge_cfs": 6380.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 13:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:05:00",
+      "discharge_cfs": 6380.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 14:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:10:00",
+      "discharge_cfs": 6380.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 14:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:15:00",
+      "discharge_cfs": 6380.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 14:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:20:00",
+      "discharge_cfs": 6380.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 14:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:25:00",
+      "discharge_cfs": 6450.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 15:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:30:00",
+      "discharge_cfs": 6530.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 15:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:35:00",
+      "discharge_cfs": 6530.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 15:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:40:00",
+      "discharge_cfs": 6530.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 15:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:45:00",
+      "discharge_cfs": 6530.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 16:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:50:00",
+      "discharge_cfs": 6610.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 16:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 09:55:00",
+      "discharge_cfs": 6690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 16:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:00:00",
+      "discharge_cfs": 6690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 16:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:05:00",
+      "discharge_cfs": 6690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 17:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:10:00",
+      "discharge_cfs": 6770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 17:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:15:00",
+      "discharge_cfs": 6770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 17:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:20:00",
+      "discharge_cfs": 6770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 17:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:25:00",
+      "discharge_cfs": 6840.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 18:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:30:00",
+      "discharge_cfs": 6920.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 18:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:35:00",
+      "discharge_cfs": 6920.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 18:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:40:00",
+      "discharge_cfs": 7000.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 18:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:45:00",
+      "discharge_cfs": 7000.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 19:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:50:00",
+      "discharge_cfs": 7080.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 19:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 10:55:00",
+      "discharge_cfs": 7080.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 19:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:00:00",
+      "discharge_cfs": 7080.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 19:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:05:00",
+      "discharge_cfs": 7160.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 20:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:10:00",
+      "discharge_cfs": 7160.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 20:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:15:00",
+      "discharge_cfs": 7160.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 20:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:20:00",
+      "discharge_cfs": 7250.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 20:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:25:00",
+      "discharge_cfs": 7330.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 21:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:30:00",
+      "discharge_cfs": 7250.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 21:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:35:00",
+      "discharge_cfs": 7330.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 21:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:40:00",
+      "discharge_cfs": 7490.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 21:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:45:00",
+      "discharge_cfs": 7570.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 22:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:50:00",
+      "discharge_cfs": 7490.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 22:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 11:55:00",
+      "discharge_cfs": 7570.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 22:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:00:00",
+      "discharge_cfs": 7570.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 22:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:05:00",
+      "discharge_cfs": 7660.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 23:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:10:00",
+      "discharge_cfs": 7660.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 23:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:15:00",
+      "discharge_cfs": 7740.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 23:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:20:00",
+      "discharge_cfs": 7740.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-20 23:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:25:00",
+      "discharge_cfs": 7740.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 00:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:30:00",
+      "discharge_cfs": 7820.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 00:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:35:00",
+      "discharge_cfs": 7820.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 00:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:40:00",
+      "discharge_cfs": 7910.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 00:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:45:00",
+      "discharge_cfs": 7910.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 01:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:50:00",
+      "discharge_cfs": 7910.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 01:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 12:55:00",
+      "discharge_cfs": 7990.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 01:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:00:00",
+      "discharge_cfs": 7990.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 01:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:05:00",
+      "discharge_cfs": 7990.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 02:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:10:00",
+      "discharge_cfs": 8080.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 02:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:15:00",
+      "discharge_cfs": 8160.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 02:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:20:00",
+      "discharge_cfs": 8160.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 02:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:25:00",
+      "discharge_cfs": 8160.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 03:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:30:00",
+      "discharge_cfs": 8250.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 03:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:35:00",
+      "discharge_cfs": 8250.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 03:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:40:00",
+      "discharge_cfs": 8340.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 03:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:45:00",
+      "discharge_cfs": 8420.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 04:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:50:00",
+      "discharge_cfs": 8420.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 04:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 13:55:00",
+      "discharge_cfs": 8420.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 04:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:00:00",
+      "discharge_cfs": 8420.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 04:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:05:00",
+      "discharge_cfs": 8510.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 05:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:10:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 05:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:15:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 05:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:20:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 05:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:25:00",
+      "discharge_cfs": 8600.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 06:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:30:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 06:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:35:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 06:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:40:00",
+      "discharge_cfs": 8690.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 06:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:45:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 07:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:50:00",
+      "discharge_cfs": 8770.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 07:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 14:55:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 07:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:00:00",
+      "discharge_cfs": 8860.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 07:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:05:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 08:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:10:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 08:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:15:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 08:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:20:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 08:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:25:00",
+      "discharge_cfs": 8950.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 09:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:30:00",
+      "discharge_cfs": 9040.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 09:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:35:00",
+      "discharge_cfs": 9130.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 09:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:40:00",
+      "discharge_cfs": 9130.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 09:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:45:00",
+      "discharge_cfs": 9220.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 10:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:50:00",
+      "discharge_cfs": 9130.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 10:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 15:55:00",
+      "discharge_cfs": 9220.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 10:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:00:00",
+      "discharge_cfs": 9220.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 10:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:05:00",
+      "discharge_cfs": 9220.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 11:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:10:00",
+      "discharge_cfs": 9220.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 11:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:15:00",
+      "discharge_cfs": 9310.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 11:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:20:00",
+      "discharge_cfs": 9310.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 11:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:25:00",
+      "discharge_cfs": 9410.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 12:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:30:00",
+      "discharge_cfs": 9410.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 12:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:35:00",
+      "discharge_cfs": 9310.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 12:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:40:00",
+      "discharge_cfs": 9410.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 12:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:45:00",
+      "discharge_cfs": 9590.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     },
     {
-      "dateTime": "2026-11-21 13:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 13:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 13:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 13:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 14:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 14:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 14:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 14:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 15:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 15:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 15:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 15:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 16:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 16:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 16:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 16:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 17:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 17:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 17:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 17:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 18:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 18:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 18:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 18:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 19:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 19:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 19:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 19:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 20:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 20:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 20:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 20:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 21:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 21:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 21:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 21:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 22:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 22:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 22:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 22:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 23:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 23:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 23:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-21 23:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 00:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 00:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 00:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 00:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 01:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 01:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 01:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 01:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 02:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 02:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 02:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 02:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 03:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 03:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 03:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 03:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 04:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 04:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 04:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 04:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 05:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 05:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 05:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 05:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 06:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 06:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 06:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 06:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 07:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 07:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 07:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 07:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 08:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 08:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 08:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 08:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 09:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 09:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 09:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 09:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 10:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 10:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 10:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 10:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 11:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 11:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 11:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 11:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 12:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 12:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 12:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 12:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 13:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 13:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 13:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 13:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 14:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 14:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 14:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 14:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 15:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 15:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 15:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 15:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 16:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 16:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 16:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 16:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 17:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 17:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 17:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 17:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 18:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 18:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 18:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 18:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 19:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 19:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 19:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 19:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 20:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 20:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 20:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 20:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 21:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 21:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 21:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 21:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 22:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 22:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 22:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 22:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 23:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 23:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 23:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-22 23:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 00:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 00:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 00:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 00:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 01:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 01:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 01:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 01:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 02:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 02:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 02:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 02:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 03:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 03:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 03:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 03:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 04:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 04:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 04:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 04:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 05:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 05:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 05:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 05:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 06:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 06:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 06:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 06:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 07:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 07:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 07:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 07:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 08:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 08:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 08:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 08:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 09:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 09:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 09:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 09:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 10:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 10:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 10:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 10:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 11:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 11:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 11:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 11:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 12:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 12:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 12:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 12:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 13:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 13:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 13:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 13:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 14:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 14:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 14:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 14:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 15:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 15:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 15:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 15:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 16:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 16:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 16:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 16:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 17:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 17:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 17:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 17:45:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 18:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 18:15:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 18:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 18:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 19:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 19:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 19:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 19:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 20:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 20:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 20:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 20:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 21:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 21:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 21:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 21:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 22:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 22:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 22:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 22:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 23:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 23:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 23:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-23 23:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 00:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 00:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 00:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 00:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 01:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 01:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 01:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 01:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 02:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 02:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 02:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 02:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 03:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 03:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 03:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 03:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 04:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 04:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 04:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 04:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 05:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 05:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 05:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 05:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 06:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 06:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 06:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 06:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 07:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 07:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 07:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 07:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 08:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 08:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 08:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 08:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 09:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 09:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 09:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 09:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 10:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 10:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 10:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 10:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 11:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 11:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 11:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 11:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 12:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 12:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 12:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 12:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 13:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 13:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 13:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 13:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 14:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 14:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 14:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 14:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 15:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 15:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 15:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 15:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 16:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 16:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 16:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 16:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 17:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 17:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 17:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 17:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 18:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 18:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 18:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 18:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 19:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 19:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 19:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 19:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 20:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 20:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 20:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 20:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 21:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 21:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 21:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 21:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 22:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 22:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 22:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 22:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 23:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 23:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 23:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-24 23:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 00:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 00:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 00:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 00:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 01:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 01:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 01:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 01:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 02:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 02:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 02:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 02:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 03:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 03:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 03:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 03:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 04:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 04:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 04:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 04:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 05:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 05:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 05:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 05:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 06:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 06:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 06:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 06:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 07:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 07:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 07:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 07:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 08:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 08:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 08:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 08:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 09:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 09:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 09:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 09:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 10:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 10:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 10:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 10:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 11:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 11:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 11:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 11:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 12:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 12:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 12:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 12:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 13:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 13:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 13:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 13:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 14:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 14:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 14:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 14:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 15:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 15:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 15:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 15:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 16:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 16:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 16:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 16:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 17:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 17:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 17:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 17:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 18:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 18:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 18:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 18:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 19:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 19:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 19:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 19:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 20:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 20:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 20:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 20:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 21:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 21:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 21:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 21:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 22:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 22:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 22:30:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 22:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 23:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 23:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 23:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-25 23:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 00:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 00:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 00:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 00:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 01:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 01:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 01:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 01:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 02:00:00",
-      "discharge_cfs": 17.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 02:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 02:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 02:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 03:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 03:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 03:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 03:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 04:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 04:15:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 04:30:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 04:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 05:00:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 05:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 05:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 05:45:00",
-      "discharge_cfs": 17.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 06:00:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 06:15:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 06:30:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 06:45:00",
-      "discharge_cfs": 18.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 07:00:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 07:15:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 07:30:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 07:45:00",
-      "discharge_cfs": 18.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 08:00:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 08:15:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 08:30:00",
-      "discharge_cfs": 18.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 08:45:00",
-      "discharge_cfs": 19.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 09:00:00",
-      "discharge_cfs": 19.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 09:15:00",
-      "discharge_cfs": 19.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 09:30:00",
-      "discharge_cfs": 19.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 09:45:00",
-      "discharge_cfs": 19.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 10:00:00",
-      "discharge_cfs": 19.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 10:15:00",
-      "discharge_cfs": 19.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 10:30:00",
-      "discharge_cfs": 19.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 10:45:00",
-      "discharge_cfs": 19.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 11:00:00",
-      "discharge_cfs": 20.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 11:15:00",
-      "discharge_cfs": 19.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 11:30:00",
-      "discharge_cfs": 20.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 11:45:00",
-      "discharge_cfs": 20.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 12:00:00",
-      "discharge_cfs": 19.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 12:15:00",
-      "discharge_cfs": 19.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 12:30:00",
-      "discharge_cfs": 19.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 12:45:00",
-      "discharge_cfs": 20.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 13:00:00",
-      "discharge_cfs": 20.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 13:15:00",
-      "discharge_cfs": 21.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 13:30:00",
-      "discharge_cfs": 20.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 13:45:00",
-      "discharge_cfs": 21.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 14:00:00",
-      "discharge_cfs": 21.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 14:15:00",
-      "discharge_cfs": 21.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 14:30:00",
-      "discharge_cfs": 21.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 14:45:00",
-      "discharge_cfs": 22.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 15:00:00",
-      "discharge_cfs": 21.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 15:15:00",
-      "discharge_cfs": 22.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 15:30:00",
-      "discharge_cfs": 22.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 15:45:00",
-      "discharge_cfs": 22.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 16:00:00",
-      "discharge_cfs": 22.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 16:15:00",
-      "discharge_cfs": 23.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 16:30:00",
-      "discharge_cfs": 24.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 16:45:00",
-      "discharge_cfs": 24.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 17:00:00",
-      "discharge_cfs": 22.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 17:15:00",
-      "discharge_cfs": 24.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 17:30:00",
-      "discharge_cfs": 24.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 17:45:00",
-      "discharge_cfs": 24.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 18:00:00",
-      "discharge_cfs": 24.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 18:15:00",
-      "discharge_cfs": 25.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 18:30:00",
-      "discharge_cfs": 25.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 18:45:00",
-      "discharge_cfs": 26.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 19:00:00",
-      "discharge_cfs": 27.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 19:15:00",
-      "discharge_cfs": 27.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 19:30:00",
-      "discharge_cfs": 29.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 19:45:00",
-      "discharge_cfs": 29.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 20:00:00",
-      "discharge_cfs": 30.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 20:15:00",
-      "discharge_cfs": 30.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 20:30:00",
-      "discharge_cfs": 31.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 20:45:00",
-      "discharge_cfs": 32.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 21:00:00",
-      "discharge_cfs": 34.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 21:15:00",
-      "discharge_cfs": 34.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 21:30:00",
-      "discharge_cfs": 37.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 21:45:00",
-      "discharge_cfs": 39.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 22:00:00",
-      "discharge_cfs": 39.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 22:15:00",
-      "discharge_cfs": 39.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 22:30:00",
-      "discharge_cfs": 42.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 22:45:00",
-      "discharge_cfs": 43.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 23:00:00",
-      "discharge_cfs": 45.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 23:15:00",
-      "discharge_cfs": 47.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 23:30:00",
-      "discharge_cfs": 49.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-26 23:45:00",
-      "discharge_cfs": 50.1,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 00:00:00",
-      "discharge_cfs": 51.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 00:15:00",
-      "discharge_cfs": 51.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 00:30:00",
-      "discharge_cfs": 51.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 00:45:00",
-      "discharge_cfs": 53.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 01:00:00",
-      "discharge_cfs": 54.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 01:15:00",
-      "discharge_cfs": 55.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 01:30:00",
-      "discharge_cfs": 56.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 01:45:00",
-      "discharge_cfs": 58.8,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 02:00:00",
-      "discharge_cfs": 59.9,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 02:15:00",
-      "discharge_cfs": 62.3,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 02:30:00",
-      "discharge_cfs": 66.5,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 02:45:00",
-      "discharge_cfs": 69.7,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 03:00:00",
-      "discharge_cfs": 75.2,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 03:15:00",
-      "discharge_cfs": 81.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 03:30:00",
-      "discharge_cfs": 90.4,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 03:45:00",
-      "discharge_cfs": 103.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 04:00:00",
-      "discharge_cfs": 113.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 04:15:00",
-      "discharge_cfs": 123.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 04:30:00",
-      "discharge_cfs": 135.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 04:45:00",
-      "discharge_cfs": 147.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 05:00:00",
-      "discharge_cfs": 160.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 05:15:00",
-      "discharge_cfs": 174.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 05:30:00",
-      "discharge_cfs": 188.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 05:45:00",
-      "discharge_cfs": 201.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 06:00:00",
-      "discharge_cfs": 213.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
-    },
-    {
-      "dateTime": "2026-11-27 06:15:00",
-      "discharge_cfs": 223.0,
-      "site_name": "CHOPTANK RIVER NEAR GREENSBORO, MD"
+      "dateTime": "2026-11-27 16:50:00",
+      "discharge_cfs": 9500.0,
+      "site_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA"
     }
   ],
-  "anomaly_count": 855,
+  "anomaly_count": 240,
   "flow_status": {
-    "status": "High Flow",
-    "latest_flow": 5570.0,
-    "percentile": 100.0
+    "status": "Normal",
+    "latest_flow": 415.0,
+    "percentile": 25.0936329588015
   },
   "recent_change": {
-    "change_cfs": 350.0,
-    "change_pct": 6.704980842911877
+    "change_cfs": 28.0,
+    "change_pct": 7.235142118863049
   },
-  "summary": "High Flow conditions (avg: 1321 cfs, trend: increasing), 855 anomalies detected",
-  "analysis_date": "2026-11-27 07:08:02",
+  "summary": "Normal conditions (avg: 1595 cfs, trend: increasing), 240 anomalies detected",
+  "analysis_date": "2026-11-27 17:53:57",
   "sites_analyzed": [
     "01646500",
     "01491000"
